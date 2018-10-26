@@ -13,7 +13,7 @@ start esx_CivAutoRepair
 ```
 -  * This release if for people who have the mechanic job you can remove this at any point you wish.
 
-#Credits
+# Credits
 - Made by KrizFrost
 
 # Note: DO NOT SELL/TRADE THIS SCRIPT OR RE-RELEASE THIS WITHOUT MY PERMISSION
