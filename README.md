@@ -1,5 +1,5 @@
 # esx_CivAutoRepair
-TAR Version 1.0 Release
+TAR Version 1.5 Release
 
 ### Requirements
 * ESX
@@ -15,6 +15,7 @@ start esx_CivAutoRepair
 
 # Credits
 - Made by KrizFrost
+- qalle for helping with menu 
 
 # Note: DO NOT SELL/TRADE THIS SCRIPT OR RE-RELEASE THIS WITHOUT MY PERMISSION
 # Legal
